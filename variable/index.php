@@ -1,7 +1,6 @@
 <?php
 
 // echo
-
 echo "hola mundo";
 
 // Las variables comienzan con $, luego letra o _. Números solo después de estos.
